@@ -3,7 +3,7 @@
 - 🌱 I’m currently exploring ReactJS with a big interest in Back-End and I'm looking forward to becoming a Full-Stack Developer. <br>
 - 🤔 My interest lies in Front-End Web Development. <br>
 - 💬 Ask me about anything! <br>
-- 📫 Email me at leducanh.hna@gmail.com. <br> <hr>
+- 📫 Email me at leducanh.hna@gmail.com. <br>
 <h2>What I'm currently learning 📓:</h2>
   <div>
     <img src="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667" width=40px" height="40px" style="display: inline-block">
