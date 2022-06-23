@@ -1,9 +1,9 @@
  <h1>Hello , i'm LE DUC ANH</h1>
-- 👋 Hi, I’m @leducanh <br>
-- 🌱 I’m currently exploring ReactJS with a big interest in Back-End and I'm looking forward to becoming a Full-Stack Developer. <br>
-- 🤔 My interest lies in Front-End Web Development. <br>
-- 💬 Ask me about anything! <br>
-- 📫 Email me at leducanh.hna@gmail.com. <br>
+-  Hi, I’m @leducanh <br>
+-  I’m currently exploring ReactJS with a big interest in Back-End and I'm looking forward to becoming a Full-Stack Developer. <br>
+-  My interest lies in Front-End Web Development. <br>
+-  Ask me about anything! <br>
+-  Email me at leducanh.hna@gmail.com. <br>
 <h2>What I'm currently learning 📓:</h2>
 <body>
        <div>
